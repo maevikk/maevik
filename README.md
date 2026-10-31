@@ -1,4 +1,3 @@
-# maevik
 flowchart TD
  Start(["Вход: Qж, W, Pпл, Pзаб"]) --> CalcDP["Депрессия: dP = Pпл - Pзаб"]
  CalcDP --> CheckDP{"dP > 0?"}
